@@ -1,4 +1,4 @@
-# Finite-element
+# Finite-element-method
 用于求解偏微分方程的有限元程序(1&amp;2D finite element codes used to solve PDE)
 
 ### 主要包括两部分，一部分是使用MATLAB编写的有限元程序，另一部分是用Python语言编写的有限元程序。
@@ -12,4 +12,4 @@
 - 所使用的基函数有线性基函数、双线性基函数和二次函数；
 - 求积分部分使用的是高斯求积；
 
-本程序的实现思路来自于密苏比科技大学教授何晓明老师，是本人硕士[导师](http://www.hitsz.edu.cn/teacher/view/id-534.html)CMU读博期间的师弟。
+本程序的实现思路来自于密苏比科技大学教授何晓明老师，是我硕士[导师](http://www.hitsz.edu.cn/teacher/view/id-534.html)CMU读博期间的师弟。
